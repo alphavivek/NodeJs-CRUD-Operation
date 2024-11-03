@@ -1,0 +1,6 @@
+#Ignore Directories and Files
+
+node_modules/
+.env
+
+# .gitignore
